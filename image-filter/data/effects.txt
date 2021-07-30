@@ -1,0 +1,1 @@
+{"inPath": "LondonEye.png", "effects": ["G","E","S","B"]}
